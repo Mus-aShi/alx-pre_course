@@ -1,1 +1,10 @@
-touch
+git init
+git clone
+git add 
+git commit -m
+git push
+git pull
+git status
+git log
+git branch
+git checkout
